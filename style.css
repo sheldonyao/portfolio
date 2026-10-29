@@ -402,7 +402,6 @@ section .button button:hover{
 }
 
 section .content_ctt{
-    height: 30vh;
     width: 100%;
     margin:40px auto;
     font-family: 'Poppins', sans-serif;
@@ -420,6 +419,7 @@ footer .text span{
     color: #0e2431;
     font-size: 17px;
     font-weight: 500;
+    height: 30vh;
 }
 
 footer .text span a{
