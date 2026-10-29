@@ -396,26 +396,34 @@ section .button button:hover{
 
 .contact a{
     display: block;
-    font-size: 20px;
+    font-size: 50px;
     color: #4070f4;
     margin: 10px 0;
 }
 
+section .content_ctt{
+    height: 30vh;
+    width: 100%;
+    margin:40px auto;
+    font-family: 'Poppins', sans-serif;
+}
+
+
 /* Pied De Page CSS */
 footer .text{
-    background: #4070f4;
+    background: #fff;
     text-align: center;
     padding: 15px 0;
 }
 
 footer .text span{
-    color: #fff;
+    color: #0e2431;
     font-size: 17px;
     font-weight: 500;
 }
 
 footer .text span a{
-    color: #fff;
+    color: #0e2431;
     font-size: 18px;
     font-weight: 500;
 }
